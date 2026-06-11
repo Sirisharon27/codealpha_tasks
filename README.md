@@ -1,12 +1,12 @@
-## CodeAlpha Data Analytics Internship
+### CodeAlpha Data Analytics Internship
 
-Overview
+## Overview
 
 This repository contains all tasks completed as part of the CodeAlpha Data Analytics Internship program.
 
 The projects focus on data analysis, visualization, and web data extraction using Python and related libraries.
 
-Tools & Technologies Used
+## Tools & Technologies Used
 
 * Python
 * Pandas
@@ -17,9 +17,9 @@ Tools & Technologies Used
 * Requests
 * Jupyter Notebook
 
-Project Structure
+## Project Structure
 
-Task 1: Exploratory Data Analysis (EDA)
+# Task 1: Exploratory Data Analysis (EDA)
 
 Key activities:
 
@@ -29,7 +29,7 @@ Key activities:
 * Data Exploration
 * Insight Generation
 
-Task 2: Data Visualization
+# Task 2: Data Visualization
 
 Key activities:
 
@@ -40,7 +40,7 @@ Key activities:
 * Heatmaps
 * Data Storytelling through Visualizations
 
-Task 3: Web Scraping
+# Task 3: Web Scraping
 
 Key activities:
 
@@ -49,12 +49,12 @@ Key activities:
 * Data Collection and Storage
 * Data Cleaning and Processing
 
-Repository Structure
+## Repository Structure
 
 * task1-EDA
 * task2-DataVisualization
 * task3-WebScraping
 
-Author
+## Author
 
 Sirisharon CodeAlpha Data Analytics Intern
